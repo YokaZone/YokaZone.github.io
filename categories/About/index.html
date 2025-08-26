@@ -183,26 +183,23 @@
             , hosted on <a href="https://pages.github.com" target="_blank" rel="external nofollow noopener" title="github">github</a>
         </p>
     </div>
-    
+
     <script>
     // 设置当前年份
     document.getElementById("cpYear").innerHTML = new Date().getFullYear();
-    
-    // 计算网站运行天数 - 方案二（硬编码方式）
+
+    // 计算网站运行天数
     function calculateSiteDays() {
-        // ⚠️ 重要：请将 '2023-01-01' 改为你的实际建站日期！
-        var createDate = new Date('2025-08-23'.replace(/-/g, "/"));
+        // 把下一行的日期改成你的实际建站日期即可
+        var createDate = new Date('2025-08-23');
         var currentDate = new Date();
-        
-        // 计算天数差
+
         var timeDiff = currentDate.getTime() - createDate.getTime();
         var daysDiff = Math.floor(timeDiff / (1000 * 3600 * 24));
-        
-        // 显示结果
+
         document.getElementById('siteBuildingTime').innerHTML = daysDiff;
     }
-    
-    // 页面加载后执行计算
+
     document.addEventListener('DOMContentLoaded', calculateSiteDays);
     </script>
 </footer>
