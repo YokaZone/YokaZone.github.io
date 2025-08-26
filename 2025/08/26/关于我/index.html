@@ -213,9 +213,9 @@
     // 设置当前年份
     document.getElementById("cpYear").innerHTML = new Date().getFullYear();
     
-    // 计算网站运行天数
+    // 计算网站运行天数 - 方案二（硬编码方式）
     function calculateSiteDays() {
-        // 直接在这里设置你的建站日期（请修改为你的实际日期）
+        // ⚠️ 重要：请将 '2023-01-01' 改为你的实际建站日期！
         var createDate = new Date('2025-08-23'.replace(/-/g, "/"));
         var currentDate = new Date();
         
