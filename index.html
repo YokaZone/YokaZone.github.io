@@ -216,8 +216,29 @@
             , hosted on <a href="https://pages.github.com" target="_blank" rel="external nofollow noopener" title="github">github</a>
         </p>
     </div>
+    
+    <script>
+    // 设置当前年份
+    document.getElementById("cpYear").innerHTML = new Date().getFullYear();
+    
+    // 计算网站运行天数
+    function calculateSiteDays() {
+        // 请将'2020-05-13'修改为你的网站实际创建时间
+        var createDate = new Date('2025-08-23'.replace(/-/g, "/"));
+        var currentDate = new Date();
+        
+        // 计算天数差
+        var timeDiff = currentDate.getTime() - createDate.getTime();
+        var daysDiff = Math.floor(timeDiff / (1000 * 3600 * 24));
+        
+        // 显示结果
+        document.getElementById('siteBuildingTime').innerHTML = daysDiff;
+    }
+    
+    // 页面加载后执行计算
+    document.addEventListener('DOMContentLoaded', calculateSiteDays);
+    </script>
 </footer>
-
 
 </div>
 <!-- search pop -->
