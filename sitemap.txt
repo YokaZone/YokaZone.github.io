@@ -6,9 +6,9 @@ https://yokazone.github.io/FA/index.html
 https://yokazone.github.io/Life/index.html
 https://yokazone.github.io/Translation/index.html
 https://yokazone.github.io/
-https://yokazone.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/
 https://yokazone.github.io/tags/NO-THANK-YOU/
 https://yokazone.github.io/tags/%E6%B5%8B%E8%AF%95/
-https://yokazone.github.io/categories/About/
+https://yokazone.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/
 https://yokazone.github.io/categories/Translation/
 https://yokazone.github.io/categories/Life/
+https://yokazone.github.io/categories/About/

@@ -74,13 +74,6 @@
 
   
   <url>
-    <loc>https://yokazone.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2025-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yokazone.github.io/tags/NO-THANK-YOU/</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,14 +87,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://yokazone.github.io/categories/About/</loc>
+    <loc>https://yokazone.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://yokazone.github.io/categories/Translation/</loc>
@@ -112,6 +105,13 @@
   
   <url>
     <loc>https://yokazone.github.io/categories/Life/</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yokazone.github.io/categories/About/</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
