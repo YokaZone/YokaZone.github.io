@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yokazone.github.io/About/index.html</loc>
+    <loc>https://yokazone.github.io/Translation/index.html</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yokazone.github.io/Life/index.html</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yokazone.github.io/FA/index.html</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yokazone.github.io/2025/08/26/%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2025-09-01</lastmod>
     
@@ -20,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://yokazone.github.io/2025/08/26/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://yokazone.github.io/About/index.html</loc>
     
     <lastmod>2025-09-01</lastmod>
     
@@ -64,33 +91,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://yokazone.github.io/FA/index.html</loc>
-    
-    <lastmod>2025-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yokazone.github.io/Life/index.html</loc>
-    
-    <lastmod>2025-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yokazone.github.io/Translation/index.html</loc>
-    
-    <lastmod>2025-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://yokazone.github.io/</loc>
@@ -102,20 +102,6 @@
   
   <url>
     <loc>https://yokazone.github.io/tags/NO-THANK-YOU/</loc>
-    <lastmod>2025-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yokazone.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2025-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yokazone.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
