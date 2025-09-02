@@ -180,18 +180,18 @@
         <p style="text-align: center">Warning: 请勿转载</p>
     
     
-    
-    
+     <!-- 强制条件为真 -->
+     <!-- 强制条件为真 -->
         <div id="disqus_thread"></div>
         <script>
-            // 移除了 if 条件判断
+            // 移除了域名判断
             var disqus_config = function () {
                 this.page.url = location.href;
                 this.page.identifier = location.pathname;
             };
             (function() {
             var d = document, s = d.createElement('script');
-            s.src = 'https://yokablog-site.disqus.com/embed.js';
+            s.src = 'https://yokablog-site.disqus.com/embed.js'; <!-- 确保这里是你正确的shortname -->
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
             })();
