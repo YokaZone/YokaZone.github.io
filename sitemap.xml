@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://yokazone.github.io/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +93,7 @@
   
   <url>
     <loc>https://yokazone.github.io/tags/NO-THANK-YOU/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,14 +102,14 @@
   
   <url>
     <loc>https://yokazone.github.io/categories/Translation/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yokazone.github.io/categories/About/</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2025-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
